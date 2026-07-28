@@ -7,7 +7,7 @@ cask "byline" do
   desc "Terminal with live per-tab status for Claude Code, Codex, CLI agents"
   homepage "https://github.com/by123/byline"
 
-  depends_on macos: :catalina
+  depends_on macos: :big_sur
 
   app "Byline.app"
 
