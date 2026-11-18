@@ -1,6 +1,6 @@
 # Homebrew Tap for Byline
 
-[Byline](https://github.com/by123/byline) — a macOS terminal that watches your AI agents work.
+[Byline](https://github.com/by123/byline-releases) — a macOS terminal that watches your AI agents work.
 
 ## Install
 
