@@ -1,6 +1,6 @@
 cask "byline" do
-  version "0.16.3"
-  sha256 "edfc5ab377f0f512616f7dcebac6de730636f9f4a8de6a0cf6cdb403bb9816f5"
+  version "0.17.0"
+  sha256 "2888dbbe336408a000193acf068de0e4b0819891dd6052adcf0e3d5e7bf5a7bd"
 
   url "https://github.com/by123/byline-releases/releases/download/v#{version}/Byline-#{version}-universal.dmg"
   name "Byline"
